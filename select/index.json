@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "虹",
+  "base_artist": "L'Arc-en-Ciel",
+  "createdAt": "2025-12-01T17:59:18.546534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/01_虹_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "Brian the Sun",
+      "has_synced": true,
+      "path": "select/02_虹_Brian_the_Sun.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/03_虹_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/04_虹_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "虹 ~Album ver.~",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/05_虹_~Album_ver.~_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/06_虹_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ランニングハイ (虹 Tour 2016.11.7 FUKUI)",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/07_ランニングハイ_(虹_Tour_2016.11.7_FUKUI)_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "虹 - 2016 ver.",
+      "artist": "Naotaro Moriyama",
+      "has_synced": true,
+      "path": "select/08_虹_-_2016_ver._Naotaro_Moriyama.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "虹 (2016 ver.)",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/09_虹_(2016_ver.)_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/10_虹_SPYAIR.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "Masaki Suda",
+      "has_synced": false,
+      "path": "select/11_虹_Masaki_Suda.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "SUDA MASAKI",
+      "has_synced": false,
+      "path": "select/12_虹_SUDA_MASAKI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/13_虹_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/14_虹_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Niji [虹]",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/15_Niji_[虹]_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "虹",
+      "artist": "CHARCOAL FILTER",
+      "has_synced": false,
+      "path": "select/16_虹_CHARCOAL_FILTER.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹色バス",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_虹色バス_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "虹の彼方へ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_虹の彼方へ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "虹",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_虹_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "虹",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_虹_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "虹",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_虹_宇多田_ヒカル.txt"
+    }
+  ]
+}
